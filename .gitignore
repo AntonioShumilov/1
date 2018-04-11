@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
-
+slo______priv
+# new_name_create
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +31,6 @@
 *.exe
 *.out
 *.app
+*.#private_in
+*.##private_out
+*.lib#m
